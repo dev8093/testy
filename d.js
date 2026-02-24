@@ -1,0 +1,1 @@
+console.log("Prempal kae ghar mai bhoot hae")
